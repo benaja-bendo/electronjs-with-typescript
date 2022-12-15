@@ -1,8 +1,8 @@
 {
   "name": "app-typescript",
   "version": "1.0.0",
-  "description": "app test",
-  "author": "benji",
+  "description": "simple app electron with typescript",
+  "author": "benaja-bendo",
   "license": "MIT",
   "main": "build/main.js",
   "scripts": {
