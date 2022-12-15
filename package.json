@@ -1,0 +1,16 @@
+{
+  "name": "app-typescript",
+  "version": "1.0.0",
+  "description": "app test",
+  "author": "benji",
+  "license": "MIT",
+  "main": "build/main.js",
+  "scripts": {
+    "start": "npm run build && electron build/main.js",
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "electron": "22.0.0",
+    "typescript": "^4.9.4"
+  }
+}
